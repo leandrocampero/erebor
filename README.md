@@ -87,10 +87,11 @@ Just like in the book, this repo is the home of my treasure: a collection of use
 
 ### API's <a name="apis"></a>
 
-| Resource                               | Description                          |
-| -------------------------------------- | ------------------------------------ |
-| [Random User](https://randomuser.me/)  | Random user/person data generator    |
-| [Rapid API Hub](https://rapidapi.com/) | Many free tier API's for development |
+| Resource                                                                | Description                          |
+| ----------------------------------------------------------------------- | ------------------------------------ |
+| [Random User](https://randomuser.me/)                                   | Random user/person data generator    |
+| [Rapid API Hub](https://rapidapi.com/)                                  | Many free tier API's for development |
+| [Public API List](https://github.com/public-api-lists/public-api-lists) | Many free tier API's for development |
 
 ### Tools <a name="tools"></a>
 
