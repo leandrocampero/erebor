@@ -20,15 +20,21 @@ Just like in the book, this repo is the home of my treasure: a collection of use
    1. [**Libraries**](#libraries)
    1. [**Visual/UI**](#visual-ui)
    1. [**Internet and stuff**](#internet)
+1. [**Jobs Platforms**](#jobs)
+   1. [**Entry level & Interships**](#entry)
+   1. [**Remote**](#remote)
 
 ## Documentation <a name="documentation"></a>
 
 ### Tutorials <a name="tutorials"></a>
 
-| Resource                                                    | Description                                 |
-| ----------------------------------------------------------- | ------------------------------------------- |
-| [Tutorials Point](https://www.tutorialspoint.com/index.htm) | General purpose software tutorials          |
-| [Java67](https://www.java67.com/)                           | Learn Java and Programming through articles |
+| Resource                                                                              | Description                                                               |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Tutorials Point](https://www.tutorialspoint.com/index.htm)                           | General purpose software tutorials                                        |
+| [Java67](https://www.java67.com/)                                                     | Learn Java and Programming through articles                               |
+| [Dev Pages](https://www.devpages.io/)                                                 | Library with of tools for all programming languages                       |
+| [Coding Interview University](https://github.com/jwasham/coding-interview-university) | A complete computer science study plan to become a software engineer.     |
+| [Build your own X](https://github.com/codecrafters-io/build-your-own-x)               | Master programming by recreating your favorite technologies from scratch. |
 
 ### Books <a name="books"></a>
 
@@ -120,16 +126,17 @@ Just like in the book, this repo is the home of my treasure: a collection of use
 
 ### Visual/UI <a name="visual-ui"></a>
 
-| Resource                                                                         | Description                  |
-| -------------------------------------------------------------------------------- | ---------------------------- |
-| [Flaticon](https://www.flaticon.es/)                                             | Free svg and png icons       |
-| [Coolors](https://coolors.co/)                                                   | AI generated color pallete   |
-| [HTML Colors Code](https://htmlcolorcodes.com/es/)                               | Colors in different codes    |
-| [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clipped images tool      |
-| [Brand Colors](https://brandcolors.net/)                                         | List of many brands colors   |
-| [CSS Generator](https://cssgenerator.org/)                                       | CSS all purpose generator    |
-| [CSS Gradient Generator](https://cssgradient.io/)                                | CSS grandient code generator |
-| [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#top-of-site) | CSS Grid Complete Tutorial   |
+| Resource                                                                         | Description                                                   |
+| -------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [Flaticon](https://www.flaticon.es/)                                             | Free svg and png icons                                        |
+| [Coolors](https://coolors.co/)                                                   | AI generated color pallete                                    |
+| [HTML Colors Code](https://htmlcolorcodes.com/es/)                               | Colors in different codes                                     |
+| [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clipped images tool                                       |
+| [Brand Colors](https://brandcolors.net/)                                         | List of many brands colors                                    |
+| [CSS Generator](https://cssgenerator.org/)                                       | CSS all purpose generator                                     |
+| [CSS Gradient Generator](https://cssgradient.io/)                                | CSS grandient code generator                                  |
+| [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#top-of-site) | CSS Grid Complete Tutorial                                    |
+| [Cool Contrast](https://coolcontrast.vercel.app/)                                | Score the contrast of a chosen pallete and review suggestions |
 
 ### Internet and stuff <a name="internet"></a>
 
@@ -137,3 +144,23 @@ Just like in the book, this repo is the home of my treasure: a collection of use
 | ----------------------------------------- | --------------------------------------- |
 | [Central Ops](https://centralops.net/co/) | Suite of online free internet utilities |
 | [Render](https://render.com/pricing)      | Cloud provider with free tier           |
+
+## Jobs Platforms <a name="jobs"></a>
+
+### Entry level & Interships <a name="entry"></a>
+
+| Resource                                                                           | Description                                                                                                                 |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [Handshake](https://joinhandshake.com/)                                            | Specialized job boards to find interships or entry level roles.                                                             |
+| [RippleMatch](https://ripplematch.com/jobs/)                                       | Specialized job boards to find interships or entry level roles.                                                             |
+| [WayUp](https://www.wayup.com/)                                                    | Specialized job boards to find interships or entry level roles.                                                             |
+| [Simplify Jobs Interships](https://github.com/SimplifyJobs/Summer2024-Internships) | his resource compiles a diverse range of opportunities for the Summer 2024 term.                                            |
+| [Levels.fyi](https://www.levels.fyi/internships/)                                  | This platform provides a comprehensive overview of roles, compensation, and company insights tailored to the tech industry. |
+
+### Remote <a name="remote"></a>
+
+| Resource                                                 | Description                                                                                                                                 |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flex Jobs](www.flexjobs.com/)                           | FlexJobs not only offers a treasure trove of remote jobs but also provides invaluable articles to guide remote job seekers like you.        |
+| [Remotive](https://remotive.com/)                        | Your dream remote job may be waiting for you on the other side of the globe!                                                                |
+| [Let's Work Remotely](https://www.letsworkremotely.com/) | This platform connects you with remote job opportunities that suit your lifestyle and career goals, all from the comfort of your own space. |
