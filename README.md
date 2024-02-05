@@ -160,7 +160,7 @@ Just like in the book, this repo is the home of my treasure: a collection of use
 ### Remote <a name="remote"></a>
 
 | Resource                                                 | Description                                                                                                                                 |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Flex Jobs](www.flexjobs.com/)                           | FlexJobs not only offers a treasure trove of remote jobs but also provides invaluable articles to guide remote job seekers like you.        |
-| [Remotive](https://remotive.com/)                        | Your dream remote job may be waiting for you on the other side of the globe!                                                                |
-| [Let's Work Remotely](https://www.letsworkremotely.com/) | This platform connects you with remote job opportunities that suit your lifestyle and career goals, all from the comfort of your own space. |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flex Jobs](https://www.flexjobs.com/)                           | FlexJobs not only offers a treasure trove of remote jobs but also provides invaluable articles to guide remote job seekers like you. |
+| [Remotive](https://remotive.com/)                        | Your dream remote job may be waiting for you on the other side of the globe!                                                                   |
+| [Let's Work Remotely](https://www.letsworkremotely.com/) | This platform connects you with remote job opportunities that suit your lifestyle and career goals, all from the comfort of your own space.    |
