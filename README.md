@@ -126,17 +126,18 @@ Just like in the book, this repo is the home of my treasure: a collection of use
 
 ### Visual/UI <a name="visual-ui"></a>
 
-| Resource                                                                         | Description                                                   |
-| -------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [Flaticon](https://www.flaticon.es/)                                             | Free svg and png icons                                        |
-| [Coolors](https://coolors.co/)                                                   | AI generated color pallete                                    |
-| [HTML Colors Code](https://htmlcolorcodes.com/es/)                               | Colors in different codes                                     |
-| [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clipped images tool                                       |
-| [Brand Colors](https://brandcolors.net/)                                         | List of many brands colors                                    |
-| [CSS Generator](https://cssgenerator.org/)                                       | CSS all purpose generator                                     |
-| [CSS Gradient Generator](https://cssgradient.io/)                                | CSS grandient code generator                                  |
-| [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#top-of-site) | CSS Grid Complete Tutorial                                    |
-| [Cool Contrast](https://coolcontrast.vercel.app/)                                | Score the contrast of a chosen pallete and review suggestions |
+| Resource                                                                         | Description                                                                             |
+| -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Flaticon](https://www.flaticon.es/)                                             | Free svg and png icons                                                                  |
+| [Coolors](https://coolors.co/)                                                   | AI generated color pallete                                                              |
+| [HTML Colors Code](https://htmlcolorcodes.com/es/)                               | Colors in different codes                                                               |
+| [Clippy](https://bennettfeely.com/clippy/)                                       | CSS clipped images tool                                                                 |
+| [Brand Colors](https://brandcolors.net/)                                         | List of many brands colors                                                              |
+| [CSS Generator](https://cssgenerator.org/)                                       | CSS all purpose generator                                                               |
+| [CSS Gradient Generator](https://cssgradient.io/)                                | CSS grandient code generator                                                            |
+| [CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#top-of-site) | CSS Grid Complete Tutorial                                                              |
+| [Cool Contrast](https://coolcontrast.vercel.app/)                                | Score the contrast of a chosen pallete and review suggestions                           |
+| [Laws of UX](https://lawsofux.com/es/)                                           | Collection of best practices that designers can consider when building user interfaces. |
 
 ### Internet and stuff <a name="internet"></a>
 
@@ -160,7 +161,7 @@ Just like in the book, this repo is the home of my treasure: a collection of use
 ### Remote <a name="remote"></a>
 
 | Resource                                                 | Description                                                                                                                                 |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Flex Jobs](https://www.flexjobs.com/)                           | FlexJobs not only offers a treasure trove of remote jobs but also provides invaluable articles to guide remote job seekers like you. |
-| [Remotive](https://remotive.com/)                        | Your dream remote job may be waiting for you on the other side of the globe!                                                                   |
-| [Let's Work Remotely](https://www.letsworkremotely.com/) | This platform connects you with remote job opportunities that suit your lifestyle and career goals, all from the comfort of your own space.    |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Flex Jobs](https://www.flexjobs.com/)                   | FlexJobs not only offers a treasure trove of remote jobs but also provides invaluable articles to guide remote job seekers like you.        |
+| [Remotive](https://remotive.com/)                        | Your dream remote job may be waiting for you on the other side of the globe!                                                                |
+| [Let's Work Remotely](https://www.letsworkremotely.com/) | This platform connects you with remote job opportunities that suit your lifestyle and career goals, all from the comfort of your own space. |
